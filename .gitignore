@@ -1,0 +1,11 @@
+# snek
+**/__pycache__
+
+# venv
+*/bin
+*/include
+*/lib
+*/pyvenv.cfg
+
+# redis
+dump.rdb
